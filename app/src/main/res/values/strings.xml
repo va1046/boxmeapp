@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoxmeApp</string>
+    <string name="github_token">token cb1dbc9a76352620f55fd51d2a6b31b39c4048b6</string>
+    <string name="title_activity_home_activty">HomeActivty</string>
+    <string name="title_activity_view_repo">ViewRepoActivity</string>
+    <string name="title_activity_view_repository">ViewRepositoryActivity</string>
+    <string name="github_username"><b>Github Username</b></string>
+
+
+</resources>
